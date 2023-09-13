@@ -1,4 +1,4 @@
-## Global Sales Dashboard Analysis
+## Global Sales Analysis
 
 ![](CGsales.png)
 ---
