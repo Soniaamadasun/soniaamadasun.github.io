@@ -4,7 +4,7 @@
 ---
 
 ## Introduction
-This is a Power BI project to deliver an end-to-end business intelligence solution for a **Global Store**. The project was done to create a dynamic and interactive dashboard to enable the organization to track KPIs on sales, profit/loss, and profit margin, compare regional performance, analyse product level trends and forecasts, and identify high-value customers.
+This is a Power BI project carried out to deliver an end-to-end business intelligence solution for a **Global Store**. The project was done to create a dynamic and interactive dashboard to enable the organization to track KPIs on sales, profit/loss, and profit margin, compare regional performance, analyse product level trends and forecasts, and identify high-value customers.
 
 ## Problem Statement
 1.	To know the KPI on sales, total profit / loss and profit margin
