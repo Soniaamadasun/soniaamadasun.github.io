@@ -4,10 +4,10 @@
 ---
 
 ## Introduction
-This is a Power BI project carried out to deliver an end-to-end business intelligence solution for a **Global Store**. The project was done to create a dynamic and interactive dashboard to enable the organization track KPIs on sales, profit/loss, and profit margin, compare regional performance, analyse product level trends and forecasts, and identify high-value customers.
+This is a Power BI project carried out to deliver an end-to-end business intelligence solution for a **Global Store**. The project was done to create a dynamic and interactive dashboard to enable the organization track KPIs on sales, profit/loss, and profit margin, compare regional performance, analyze product-level trends and forecasts, and identify high-value customers.
 
 ## Problem Statement
-1.	To know the KPI on sales, total profit / loss and profit margin
+1.	To know the KPIs on sales, total profit / loss and profit margin
 2.	Display the profit / loss trend from January to December
 3.	Compare the sales across different regions
 
@@ -21,7 +21,7 @@ The following operations were performed on Power BI:
 
 ## Data Transformation
 
-Data was cleaned and transformed on Power BI by taking Steps such as removing unwanted columns and ensuring all columns are properly formatted to ensure data accuracy.
+The data in Power BI was cleaned and transformed, involving steps such as removing unwanted columns and ensuring all columns were properly formatted to ensure data accuracy.
 
 The table was also broken down into facts and dimension tables during the transformation
 
@@ -44,7 +44,7 @@ The report comprise of a 1 page dashboard and visualizations such as card to dis
 ![](CGdashboard.png)
 
 ## Analysis
-- Over a 5-month periodfrom January to december, the highest sales were achieved in march
+- Over a 5-month periodfrom January to May, the highest sales were achieved in march
 - Total sales for thses 5 months amounted to $133.8k, with a total profit of $18.12k, resulting in a profit margin of 13.61%
 - Among product categories,'Office Supplies" had the highest sales reaching $11k
 - In the sub-category there was a notable loss of -$1,850
