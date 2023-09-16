@@ -16,6 +16,7 @@ The following operations were performed on Power BI:
 - Data collection
 - Data cleaning
 - Data transformation
+- Data modelling 
 - DAX
 - Data visualization
 
